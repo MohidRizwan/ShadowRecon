@@ -84,7 +84,7 @@ ShadowRecon/
 ### **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ShadowRecon
+git clone https://github.com/MohidRizwan/ShadowRecon
 cd ShadowRecon
 ```
 
